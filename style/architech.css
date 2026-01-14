@@ -152,8 +152,13 @@ main{
     filter: grayscale(100%);
 }
 
+/*feature section related style*/
 
-
+#feature-section-title{
+    border-left: 5px solid #FF900E;
+    padding: 21px;
+    
+}
 
 
 
